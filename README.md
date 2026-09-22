@@ -90,7 +90,7 @@ I, Kayigirwa Ornella, confirm that this work is my own. All commands were execut
 
 ## Submission details
 
-Repository Link: [Paste your GitHub repository URL here]
+Repository Link: https://github.com/Ornellakayigirwa/oracle_pdb_ass_II_20251SEN046_Ornella/edit/main/README.md
 PDB Name Created: or_pdb_20251SEN046
 Issues Encountered: Yes
 
